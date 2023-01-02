@@ -64,7 +64,7 @@
                             "<td align='center'>" + telep + "</td>" +
                             "<td align='center'>" + komentar + "</td>" +
                             "<td align='center'><a href='edit.php?id=" + id + "'>ubah</a></td>" +
-                            "<td align='center'><a id='delete' href='delete.php?id=" + id + "'>Delete</a></td>" +
+                            "<td align='center'><a id='delete' data=' href='delete.php?id=" + id + "'>Delete</a></td>" +
 
 
                             "</tr>";
